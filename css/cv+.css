@@ -1,0 +1,16 @@
+
+body{
+margin:0px;
+padding:0px;
+font-family:sans-serif;
+
+color: white;
+background-color: black;
+background-image:url('../images/matrix.jpg');
+}
+
+
+a{
+font-style:none;
+color: white;
+}

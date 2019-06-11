@@ -1,0 +1,67 @@
+
+body{
+  width: 80vw;
+  height: auto;
+  margin: auto;
+}
+header{
+background-color:black;/*#999999;*/
+}
+#bart{
+filter: grayscale(80%);
+}
+/*****************/
+.menu_inicio{
+  background-color:black;
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.menu_inicio li{
+  display: inline-block;
+  font-size: 15px;
+  padding: 15px;
+}
+.menu_inicio li a,a{
+ /*display: inline-block;*/
+ text-decoration:none; 
+ background-color:black;
+ color:white;
+}
+
+.menu_inicio li a:hover{
+ color:green;
+}
+/**************/
+h2{
+text-align: center;
+color:grey;
+}
+/**************/
+main{
+height:250px;
+text-align:center;
+
+/*width:80%;
+margin: auto;
+background-color:black;*/
+background-image:url("../images/bgMatrix-1_500.gif");
+
+}
+
+/*
+aside{
+	width:25%;
+	float:rigth;
+}
+*/
+
+
+/****************/
+footer{
+ text-align: center;
+ background-color:black;
+ color:white;
+clear: both;
+}
